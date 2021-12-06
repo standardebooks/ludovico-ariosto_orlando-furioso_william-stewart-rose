@@ -47,6 +47,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/615</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100784094</dc:source>
+		<dc:source>https://archive.org/details/orlandofurios00ario</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
