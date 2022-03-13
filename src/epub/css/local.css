@@ -46,7 +46,7 @@ section[epub|type~="dedication"] > blockquote{
 	margin: 1em 2.5em;
 }
 
-footer{
+section[epub|type~="dedication"] > footer{
 	margin-top: 1em;
 	text-align: right;
 }
