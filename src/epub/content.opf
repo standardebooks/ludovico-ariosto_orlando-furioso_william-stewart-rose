@@ -39,28 +39,28 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Romance</meta>
+		<dc:description id="description">A knight is lured away from his duty to protect Europe from invaders by a beautiful woman.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Orlando Furioso&lt;/i&gt; is a sequel to Matteo Maria Boiardo’s incomplete epic poem &lt;i&gt;Orlando Innamorato&lt;/i&gt;. &lt;a href="https://standardebooks.org/ebooks/ludovico-ariosto"&gt;Ludovico Ariosto&lt;/a&gt; continues the story’s fusion of French and British legends as well as including material from Greek and Latin literature. This tale of war, adventure, sorcery, romance, humor, tragedy, and redemption has influenced famous writers like Spenser and &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt; and continues to inspire writers to this day. &lt;i&gt;Orlando Furioso&lt;/i&gt; is one of the longest poems in European literature, with 46 cantos and 38,736 lines in total.&lt;/p&gt;
+			&lt;p&gt;The Saracens and Christians are fighting over the control of Europe. Agramant, the King of Africa, and his allies lay siege to Paris and Charlemagne’s forces. Meanwhile, Orlando, one of Charlemagne’s famous paladins, is returning to France with the captured pagan princess Angelica. Her beauty incites Knight Rinaldo to duel Orlando for her love. During the fight, she escapes.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/615</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100784094</dc:source>
 		<dc:source>https://archive.org/details/orlandofurios00ario</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">a) The original Italian text was used for the untranslated areas; b) The dedication, introduction, and endnotes are from raw OCR; c) Spelling and diacritics have been somewhat modernized and standardized.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Orlando_Furioso</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ludovico-ariosto_orlando-furioso_william-stewart-rose</meta>
 		<dc:creator id="author">Ludovico Ariosto</dc:creator>
 		<meta property="file-as" refines="#author">Ariosto, Ludovico</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ludovico_Ariosto</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79041715</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">William Stewart Rose</dc:contributor>
 		<meta property="file-as" refines="#translator">Rose, William Stewart</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/William_Stewart_Rose</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n85312413</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
@@ -82,6 +82,7 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
