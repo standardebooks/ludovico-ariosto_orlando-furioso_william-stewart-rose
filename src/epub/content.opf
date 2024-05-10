@@ -50,7 +50,7 @@
 		<dc:source>https://archive.org/details/orlandofurios00ario</dc:source>
 		<meta property="se:production-notes">a) The original Italian text was used for the untranslated areas; b) The dedication, introduction, and endnotes are from raw OCR; c) Spelling and diacritics have been somewhat modernized and standardized.</meta>
 		<meta property="se:word-count">306284</meta>
-		<meta property="se:reading-ease.flesch">55.92</meta>
+		<meta property="se:reading-ease.flesch">56.02</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Orlando_Furioso</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ludovico-ariosto_orlando-furioso_william-stewart-rose</meta>
 		<dc:creator id="author">Ludovico Ariosto</dc:creator>
