@@ -1,0 +1,1 @@
+a) The original Italian text was used for the untranslated areas; b) The dedication, introduction, and endnotes are from raw OCR; c) Spelling and diacritics have been somewhat modernized and standardized.
