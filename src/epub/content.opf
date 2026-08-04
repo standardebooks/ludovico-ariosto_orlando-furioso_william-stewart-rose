@@ -40,7 +40,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Poetry</meta>
-		<dc:abstract>A beautiful woman lures a knight away from his duty to protect Europe from invaders.</dc:abstract>
+		<meta property="schema:abstract">A beautiful woman lures a knight away from his duty to protect Europe from invaders.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Orlando Furioso&lt;/i&gt;, one of the longest poems in European literature, is the sequel to Matteo Maria Boiardo’s incomplete epic poem &lt;i&gt;Orlando Innamorato&lt;/i&gt;. &lt;a href="https://standardebooks.org/ebooks/ludovico-ariosto"&gt;Ludovico Ariosto&lt;/a&gt; continues the story’s fusion of French and British legends as well as including material from Greek and Latin literature.&lt;/p&gt;
 			&lt;p&gt;The Saracens and Christians are fighting over control of Europe. Agramant, the King of Africa, and his allies lay siege to Paris and Charlemagne’s forces. Meanwhile, Orlando, one of Charlemagne’s famous paladins, is returning to France with the captured pagan princess Angelica. Her beauty incites Knight Rinaldo to duel Orlando for her love. During the fight, she escapes.&lt;/p&gt;
