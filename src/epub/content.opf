@@ -50,7 +50,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/615</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100784094</dc:source>
 		<dc:source>https://archive.org/details/orlandofurios00ario</dc:source>
-		<meta property="schema:wordCount">302909</meta>
+		<meta property="schema:wordCount">302908</meta>
 		<meta property="schema:educationalLevel">56.02</meta>
 		<link href="https://en.wikipedia.org/wiki/Orlando_Furioso" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
